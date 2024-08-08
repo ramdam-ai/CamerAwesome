@@ -12,7 +12,8 @@ environment:
   flutter: ">=1.10.0"
 
 dependencies:
-  carousel_slider: ^4.2.1
+  carousel_slider:
+    git: https://github.com/ramdam-ai/flutter_carousel_slider.git
   collection: ^1.17.2
   colorfilter_generator: ^0.0.8
   cross_file: ^0.3.3+6
