@@ -54,7 +54,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "36d3f399cb98634d5f5cd30eaff56c34b04c5f40"
+      resolved-ref: "14a0df8a1987d987e3e17e1521f71bbed17f0530"
       url: "https://github.com/ramdam-ai/flutter_carousel_slider.git"
     source: git
     version: "4.2.1"
